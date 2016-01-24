@@ -11,7 +11,8 @@ a{
     }
     
 a:hover{
-    font-weight:bold;
+    font-weight:lighter;
+    color: black;
     
 }
 /* Top NavBar Config */
