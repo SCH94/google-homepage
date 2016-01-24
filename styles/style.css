@@ -1,0 +1,58 @@
+/* Basic config */
+ul{
+    list-style-type: none;
+}
+li{
+    display: inline;
+}
+a{
+    text-decoration: none;
+}
+/* Top NavBar Config */
+.top{
+    text-align: right;
+}
+
+/* logo */
+#logo{
+    margin: 200px 0px 0px 510px;
+}
+
+#country{
+    position:relative;
+    margin-left:730px;
+    margin-top: -20px;
+    color:blue;
+}
+/* searchbar */
+
+#bar{
+    position: relative;
+    height: 40px;
+    width: 600px;
+    border: 1px solid blue;
+    margin-left: 350px;
+    
+}
+
+/* config button */
+.l_button{
+    width: 150px;
+    height: 30px;
+    border: 1px solid #c9c6c6;
+    padding: 10px 0 0 0 ;
+    text-align: center;
+    margin: 10px 0 0 490px;
+    background-color: #f0ecec;
+    border-radius: 2px;
+}
+.r_button{
+    width: 150px;
+    height: 30px;
+    border: 1px solid #c9c6c6;
+    padding: 10px 0 0 0 ;
+    text-align: center;
+    margin: -41px 0 0 650px;
+    background-color: #f0ecec;
+    border-radius: 2px;
+}
